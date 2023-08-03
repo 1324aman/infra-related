@@ -1,3 +1,6 @@
+#### IAM (Identity and access management)
+- By default IAM user does not have any permissions to perform any action.
+
 #### IAM components - 
 1. Principal
 2. Authentication
